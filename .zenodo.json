@@ -1,0 +1,13 @@
+{
+  "title": "guard-contractor-enforcement: federal enforcement actions against the largest U.S. guard contractors, from DOJ and EEOC press releases",
+  "upload_type": "dataset",
+  "description": "<p>Federal enforcement actions against the largest U.S. government guard contractors: the 48 company groups among the 50 largest recipients of federal guard-service contracts (product and service code S206, fiscal years 2008-2026, from the Mercenomics dataset us-guard-spending). Actions were found in U.S. Department of Justice press releases (10,210 searched) and U.S. Equal Employment Opportunity Commission press releases (3,180 searched); all 65 releases naming a covered company were read by hand. The dataset has 48 actions from 2009 to 2025, 34 of them resolved: False Claims Act settlements, a criminal antitrust plea, non-prosecution agreements and employment discrimination settlements. Each keeps its source link, the amount in the release's own words, what the release says about liability (many settlements state that the claims are allegations only) and how the named company is linked to its group. The companies were also checked against the SAM.gov list of active federal exclusions, with no matches. Press releases are not a complete enforcement record; the limits are documented in the repository.</p>",
+  "creators": [
+    {"name": "Azom, Kazi Affnann", "affiliation": "Mercenomics", "orcid": "0009-0001-5998-7642"}
+  ],
+  "license": "cc-by-4.0",
+  "keywords": ["private security", "government contractors", "False Claims Act", "employment discrimination", "enforcement", "security guards", "United States", "Department of Justice", "EEOC"],
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.23750993", "relation": "isDerivedFrom", "scheme": "doi"}
+  ]
+}

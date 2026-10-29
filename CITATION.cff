@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+title: "guard-contractor-enforcement: federal enforcement actions against the largest U.S. guard contractors, from DOJ and EEOC press releases"
+abstract: "Federal enforcement actions against the 48 largest recipients of U.S. federal guard-service contracts (FY2008-2026), hand-coded from Department of Justice and Equal Employment Opportunity Commission press releases (2009-2025), with a check of the SAM.gov exclusions list. Each action keeps its source link, the amount in the release's own words and what the release says about liability."
+type: dataset
+authors:
+  - family-names: "Azom"
+    given-names: "Kazi Affnann"
+    orcid: "https://orcid.org/0009-0001-5998-7642"
+    affiliation: "Mercenomics"
+version: "1.0.0"
+date-released: "2026-10-29"
+repository-code: "https://github.com/Affnann/guard-contractor-enforcement"
+license: CC-BY-4.0
+keywords:
+  - private security
+  - government contractors
+  - False Claims Act
+  - employment discrimination
+  - enforcement
+  - security guards

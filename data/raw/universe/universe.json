@@ -1,0 +1,842 @@
+{
+ "source": "https://github.com/Affnann/us-guard-spending/raw/v1.0.0/data/clean/s206_transactions.csv.gz",
+ "source_sha256": "8bd7cba552f8acdd68d43425de5f8678c0664d40d93d7a69945a338ea2efecda",
+ "groups": {
+  "THE GEO GROUP, INC.": {
+   "rank": 1,
+   "obligations_usd": 5391698710.04,
+   "awards": 199,
+   "parent_uei": [
+    "JMLKZZ1NL2Z6"
+   ],
+   "recipient_uei": [
+    "DFEKRCYPZD84",
+    "JMLKZZ1NL2Z6",
+    "LTXHRJ986LF3",
+    "TLDCDE29G781",
+    "W1KTDYYP2SD6"
+   ],
+   "names": [
+    "CORNELL COMPANIES, INC.",
+    "CORRECTIONAL SERVICES CORPORATION",
+    "GEO TRANSPORT, INC.",
+    "RECOVERY SOLUTIONS OF SOUTH CAROLINA, LLC",
+    "THE GEO GROUP, INC."
+   ]
+  },
+  "G4S PLC": {
+   "rank": 2,
+   "obligations_usd": 4157216777.8,
+   "awards": 795,
+   "parent_uei": [
+    "KMHYL8K8SLW7"
+   ],
+   "recipient_uei": [
+    "CG3VSTZW3ZK4",
+    "DQLPJN54UMW4",
+    "F8KFYMM1PSR6",
+    "FEK3KDR7DRL8",
+    "GHFJLV19EVY5",
+    "H4H3J7SJCT76",
+    "H5M2KCZCA9M3",
+    "HSGAF24S1BX8",
+    "KMS9DZ2UZ299",
+    "LMBSDD893F48",
+    "LX58W5HM8K83",
+    "MPG6GZUJGN66",
+    "N3NHAP1KQBN8",
+    "N9DRDZFDKKL3",
+    "NHBDGQLNPAF3",
+    "T9ZVLQKVNQH3",
+    "TC6KLMJ46U89",
+    "XW5SJTQP3NT8",
+    "YX8LKAH55HW7"
+   ],
+   "names": [
+    "ARMORGROUP NORTH AMERICA, INC.",
+    "CENTERRA GROUP, LLC",
+    "CENTERRA INTERNATIONAL TRAINING, LLC",
+    "G4S INTERNATIONAL LOGISTICS (USA), INC.",
+    "G4S PERU S.A.C.",
+    "G4S PLC",
+    "G4S SECURE INTEGRATION LLC",
+    "G4S SECURE SOLUTIONS (GAMBIA) LIMITED",
+    "G4S SECURE SOLUTIONS (GUAM), INC.",
+    "G4S SECURE SOLUTIONS (PUERTO RICO), INC.",
+    "G4S SECURE SOLUTIONS (USA) INC",
+    "G4S SECURE SOLUTIONS (USA) INC.",
+    "G4S SECURE SOLUTIONS INTERNATIONAL INC.",
+    "G4S SECURE SOLUTIONS KOREA LTD",
+    "G4S SECURE SOLUTIONS MALAWI LTD",
+    "G4S TJV QATAR",
+    "G4S, DRU?BA ZA VAROVANJE D.O.O.",
+    "WACKENHUT CORPORATION, THE",
+    "WACKENHUT OF NEVADA INC",
+    "WACKENHUT PARAGUAY SA"
+   ]
+  },
+  "AKAL SECURITY, INC.": {
+   "rank": 3,
+   "obligations_usd": 3693612269.78,
+   "awards": 1967,
+   "parent_uei": [
+    "LG8UAC9L6JE5"
+   ],
+   "recipient_uei": [
+    "LG8UAC9L6JE5",
+    "T8ZCJD9ERHH1"
+   ],
+   "names": [
+    "AKAL SECURITY, INC.",
+    "COASTAL INTERNATIONAL SECURITY, INC"
+   ]
+  },
+  "CONSTELLIS HOLDINGS, LLC": {
+   "rank": 4,
+   "obligations_usd": 3444916400.7,
+   "awards": 512,
+   "parent_uei": [
+    "FUX8UNJEAXV8"
+   ],
+   "recipient_uei": [
+    "F481BZWYCZA7",
+    "H4H3J7SJCT76",
+    "K87GBMDQNEX8",
+    "KG5HJ4MYUT45",
+    "ZYJEDE2NLAA9"
+   ],
+   "names": [
+    "ACADEMI TRAINING CENTER LLC",
+    "AMERICAN K-9 DETECTION SERVICES, LLC",
+    "CENTERRA GROUP, LLC",
+    "CONSTELLIS HOLDINGS, LLC",
+    "OMNIPLEX WORLD SERVICES CORPORATION",
+    "TRIPLE CANOPY INC"
+   ]
+  },
+  "SECURITAS AB": {
+   "rank": 5,
+   "obligations_usd": 3388818229.02,
+   "awards": 1031,
+   "parent_uei": [
+    "D6LPDBJCFE25",
+    "JQTLH33SXNQ7"
+   ],
+   "recipient_uei": [
+    "FMBMZUF7QNE9",
+    "HKWBMEWAUD35",
+    "P1J9S9KE1994",
+    "R92WZLLSXE17",
+    "RG1VD6RNMXB5"
+   ],
+   "names": [
+    "PARAGON SYSTEMS INC",
+    "SECURITAS AB",
+    "SECURITAS SECURITY SERVICES (UK) LIMITED",
+    "SECURITAS SECURITY SERVICES USA, INC.",
+    "SECURITAS TRINITY SECURITY SERVICES LLC",
+    "SECURITY CONSULTANTS GROUP INC"
+   ]
+  },
+  "METROPOLITAN SECURITY SERVICES, INC.": {
+   "rank": 6,
+   "obligations_usd": 3259759894.68,
+   "awards": 899,
+   "parent_uei": [
+    "M8XJCDL1AE26"
+   ],
+   "recipient_uei": [
+    "M8XJCDL1AE26"
+   ],
+   "names": [
+    "METROPOLITAN SECURITY SERVICES, INC."
+   ]
+  },
+  "SRS CRITICAL INFRASTRUCTURE SECURITY LLC": {
+   "rank": 7,
+   "obligations_usd": 2954439263.87,
+   "awards": 2330,
+   "parent_uei": [
+    "CD64B173U9D3"
+   ],
+   "recipient_uei": [
+    "FMBMZUF7QNE9",
+    "GMBJBW9JH8X1",
+    "HKWBMEWAUD35",
+    "NK2DGSM9E8Y1",
+    "P1J9S9KE1994",
+    "QSHBMHNVWMA6",
+    "R92WZLLSXE17",
+    "RG1VD6RNMXB5",
+    "S1T9YF9KV4R6",
+    "WQAKKCKH9LM8",
+    "XFJJP5184DK1",
+    "ZZ3JKNW4Z716"
+   ],
+   "names": [
+    "LOOMIS",
+    "PARAGON SYSTEMS INC",
+    "PROTECTAS S.A.",
+    "SECURITAS - SERVICOS E TECNOLOGIA DE SEGURANCA, S.A.",
+    "SECURITAS CRITICAL INFRASTRUCTURE SERVICES, INC.",
+    "SECURITAS CRITICAL INFRASTRUCTURE SERVICES/SECURITAS CANADA JOINT VENTURE",
+    "SECURITAS GUVENLIK HIZMETLERI A S",
+    "SECURITAS SECURITY PERSONNEL LTD",
+    "SECURITAS SECURITY SERVICES (UK) LIMITED",
+    "SECURITAS SECURITY SERVICES USA, INC.",
+    "SECURITAS TRINITY SECURITY SERVICES LLC",
+    "SECURITY CONSULTANTS GROUP INC",
+    "SRS CRITICAL INFRASTRUCTURE SECURITY LLC"
+   ]
+  },
+  "CORECIVIC, INC.": {
+   "rank": 8,
+   "obligations_usd": 2650450435.66,
+   "awards": 113,
+   "parent_uei": [
+    "HJGMJN1JKL46"
+   ],
+   "recipient_uei": [
+    "HJGMJN1JKL46",
+    "HLXGZL34WHN8"
+   ],
+   "names": [
+    "CORECIVIC OF TENNESSEE, LLC",
+    "CORECIVIC, INC."
+   ]
+  },
+  "TRIPLE CANOPY INC": {
+   "rank": 9,
+   "obligations_usd": 2557924263.7,
+   "awards": 199,
+   "parent_uei": [
+    "F481BZWYCZA7"
+   ],
+   "recipient_uei": [
+    "F481BZWYCZA7"
+   ],
+   "names": [
+    "TRIPLE CANOPY INC"
+   ]
+  },
+  "MVM, INC.": {
+   "rank": 11,
+   "obligations_usd": 2205760716.56,
+   "awards": 424,
+   "parent_uei": [
+    "ZHJYA5NN32Z5"
+   ],
+   "recipient_uei": [
+    "ZHJYA5NN32Z5"
+   ],
+   "names": [
+    "MVM, INC."
+   ]
+  },
+  "POND SECURITY SERVICE GMBH": {
+   "rank": 12,
+   "obligations_usd": 2180627210.1,
+   "awards": 145,
+   "parent_uei": [
+    "YQGLBD32CEL8"
+   ],
+   "recipient_uei": [
+    "YQGLBD32CEL8"
+   ],
+   "names": [
+    "POND SECURITY SERVICE GMBH"
+   ]
+  },
+  "INTER-CON SECURITY SYSTEMS, INC.": {
+   "rank": 13,
+   "obligations_usd": 1579397188.67,
+   "awards": 539,
+   "parent_uei": [
+    "EZ3SMGBR74X6"
+   ],
+   "recipient_uei": [
+    "EZ3SMGBR74X6"
+   ],
+   "names": [
+    "INTER-CON SECURITY SYSTEMS, INC."
+   ]
+  },
+  "THE DAY & ZIMMERMANN GROUP, INC": {
+   "rank": 14,
+   "obligations_usd": 1204692010.82,
+   "awards": 7,
+   "parent_uei": [
+    "JV1NFDGGB4S4"
+   ],
+   "recipient_uei": [
+    "RC5DWNC4CP73",
+    "SJ9QGT9NPAG3"
+   ],
+   "names": [
+    "DAY & ZIMMERMANN LLC, CO.",
+    "SOC LLC",
+    "THE DAY & ZIMMERMANN GROUP, INC"
+   ]
+  },
+  "COVENANT SERVICES WORLDWIDE LLC": {
+   "rank": 15,
+   "obligations_usd": 1090561045.19,
+   "awards": 4,
+   "parent_uei": [
+    "S1LUJPYMGXT6"
+   ],
+   "recipient_uei": [
+    "C8GANE5B4W83"
+   ],
+   "names": [
+    "COVENANT AVIATION SECURITY, LLC",
+    "COVENANT SERVICES WORLDWIDE LLC"
+   ]
+  },
+  "COVENANT AVIATION SECURITY, LLC": {
+   "rank": 16,
+   "obligations_usd": 1032521050.58,
+   "awards": 7,
+   "parent_uei": [
+    "C8GANE5B4W83"
+   ],
+   "recipient_uei": [
+    "C8GANE5B4W83"
+   ],
+   "names": [
+    "COVENANT AVIATION SECURITY, LLC"
+   ]
+  },
+  "VENDTECH-SGI LLC": {
+   "rank": 17,
+   "obligations_usd": 900941229.43,
+   "awards": 137,
+   "parent_uei": [
+    "NSPMUN5U9GZ3"
+   ],
+   "recipient_uei": [
+    "NSPMUN5U9GZ3"
+   ],
+   "names": [
+    "VENDTECH-SGI LLC"
+   ]
+  },
+  "NANA REGIONAL CORPORATION INC": {
+   "rank": 19,
+   "obligations_usd": 743412016.43,
+   "awards": 28,
+   "parent_uei": [
+    "KW9NCQ8W64S4"
+   ],
+   "recipient_uei": [
+    "LN3GRBM6R1M7",
+    "LUDNH5K4XQU9"
+   ],
+   "names": [
+    "AKIMA GLOBAL SERVICES, LLC",
+    "LOCKWOOD HILLS FEDERAL LLC",
+    "NANA REGIONAL CORPORATION INC"
+   ]
+  },
+  "AHTNA, INCORPORATED": {
+   "rank": 20,
+   "obligations_usd": 620345402.57,
+   "awards": 21,
+   "parent_uei": [
+    "HM1PS6FAK6U7"
+   ],
+   "recipient_uei": [
+    "JZUNQG1Q4ZU6",
+    "KLAQCDRRYG24",
+    "TB9KZSRLKSB9"
+   ],
+   "names": [
+    "AHTNA FACILITY SERVICES, INCORPORATED",
+    "AHTNA SUPPORT & TRAINING SERVICES LLC",
+    "AHTNA TECHNICAL SERVICES, INC.",
+    "AHTNA, INCORPORATED"
+   ]
+  },
+  "ASSET PROTECTION & SECURITY SERVICES, L.P.": {
+   "rank": 21,
+   "obligations_usd": 607568853.79,
+   "awards": 43,
+   "parent_uei": [
+    "HMJ4CBSCDNY4"
+   ],
+   "recipient_uei": [
+    "HMJ4CBSCDNY4"
+   ],
+   "names": [
+    "ASSET PROTECTION & SECURITY SERVICES, L.P."
+   ]
+  },
+  "THE CHENEGA CORPORATION": {
+   "rank": 22,
+   "obligations_usd": 541782383.79,
+   "awards": 227,
+   "parent_uei": [
+    "ZHEGXL9HYV43"
+   ],
+   "recipient_uei": [
+    "CM3LLQ1M2C18",
+    "D9P8C2NMK585",
+    "J18TCMLMJLG1",
+    "K3D5B1T2EHS1",
+    "LJY1L16C5MU9",
+    "MK6RH2FYHUV9",
+    "QGJNGLBLVKY6",
+    "QGNPGKEP9G92",
+    "RNWRB1GWHQ45",
+    "TL1KC3N18G37",
+    "WFXSZHJEELM9"
+   ],
+   "names": [
+    "CHENEGA GLOBAL PROTECTION, LLC",
+    "CHENEGA GLOBAL SERVICES LLC",
+    "CHENEGA INTEGRATED SECURITY SOLUTIONS, LLC",
+    "CHENEGA INTEGRATED SYSTEMS LLC",
+    "CHENEGA NASWIK INTERNATIONAL LLC",
+    "CHENEGA SECURITY & PROTECTION SERVICES, LLC",
+    "CHENEGA SECURITY & SUPPORT SOLUTIONS, LLC",
+    "CHENEGA SECURITY INTERNATIONAL, LLC",
+    "CHENEGA SENTINEL 360, LLC",
+    "CHENEGA TOTAL ASSET PROTECTION, LLC",
+    "THE CHENEGA CORPORATION",
+    "THEMIS SECURITY SOLUTIONS, LLC"
+   ]
+  },
+  "BCEC - GW HOLDINGS (GUERNSEY) LP": {
+   "rank": 23,
+   "obligations_usd": 536947665.54,
+   "awards": 12,
+   "parent_uei": [
+    "HT6WN7A8D2P3"
+   ],
+   "recipient_uei": [
+    "FJLMN2N34M93"
+   ],
+   "names": [
+    "BCEC - GW HOLDINGS (GUERNSEY) LP",
+    "GARDAWORLD FEDERAL SERVICES LLC"
+   ]
+  },
+  "IDS INTERNATIONAL, LLC": {
+   "rank": 24,
+   "obligations_usd": 512159298.49,
+   "awards": 614,
+   "parent_uei": [
+    "C4CPAY4AL545"
+   ],
+   "recipient_uei": [
+    "C4CPAY4AL545",
+    "N8JBJZGT7AS9"
+   ],
+   "names": [
+    "DECO, INC.",
+    "IDS INTERNATIONAL, LLC"
+   ]
+  },
+  "CONSTELLIS HOLDINGS  LLC": {
+   "rank": 25,
+   "obligations_usd": 499833719.62,
+   "awards": 143,
+   "parent_uei": [
+    "GZ46FSHMMB84"
+   ],
+   "recipient_uei": [
+    "F481BZWYCZA7"
+   ],
+   "names": [
+    "CONSTELLIS HOLDINGS  LLC",
+    "TRIPLE CANOPY INC"
+   ]
+  },
+  "G4S INTEGRATED SERVICES GMBH": {
+   "rank": 26,
+   "obligations_usd": 492671646.66,
+   "awards": 165,
+   "parent_uei": [
+    "GEPPDP356JY3"
+   ],
+   "recipient_uei": [
+    "H4H3J7SJCT76",
+    "N9DRDZFDKKL3"
+   ],
+   "names": [
+    "CENTERRA GROUP, LLC",
+    "CENTERRA INTERNATIONAL TRAINING, LLC",
+    "G4S INTEGRATED SERVICES GMBH"
+   ]
+  },
+  "AKIMA INFRASTRUCTURE PROTECTION LLC": {
+   "rank": 27,
+   "obligations_usd": 491510551.02,
+   "awards": 15,
+   "parent_uei": [
+    "WGN2KJJD27Q3"
+   ],
+   "recipient_uei": [
+    "WGN2KJJD27Q3"
+   ],
+   "names": [
+    "AKIMA INFRASTRUCTURE PROTECTION LLC"
+   ]
+  },
+  "UNIVERSAL PROTECTION SERVICE, LIMITED PARTNERSHIP": {
+   "rank": 28,
+   "obligations_usd": 487655658.24,
+   "awards": 44,
+   "parent_uei": [
+    "MFA2CSSMMA35"
+   ],
+   "recipient_uei": [
+    "MFA2CSSMMA35"
+   ],
+   "names": [
+    "UNIVERSAL PROTECTION SERVICE, LIMITED PARTNERSHIP"
+   ]
+  },
+  "SECTEK, INC.": {
+   "rank": 29,
+   "obligations_usd": 475973142.94,
+   "awards": 112,
+   "parent_uei": [
+    "XP3RADPGBK13"
+   ],
+   "recipient_uei": [
+    "XP3RADPGBK13"
+   ],
+   "names": [
+    "SECTEK, INC."
+   ]
+  },
+  "CDA INCORPORATED": {
+   "rank": 30,
+   "obligations_usd": 462247776.27,
+   "awards": 155,
+   "parent_uei": [
+    "LYU2VE5U1NG4"
+   ],
+   "recipient_uei": [
+    "LYU2VE5U1NG4"
+   ],
+   "names": [
+    "CDA INCORPORATED"
+   ]
+  },
+  "AMENTUM JOINT VENTURE LP": {
+   "rank": 31,
+   "obligations_usd": 453065120.24,
+   "awards": 3,
+   "parent_uei": [
+    "Q3BYWA4EY5G3"
+   ],
+   "recipient_uei": [
+    "QEMLRQA7PLG4"
+   ],
+   "names": [
+    "AMENTUM JOINT VENTURE LP",
+    "AMENTUM SERVICES, INC."
+   ]
+  },
+  "KERBEROS INTERNATIONAL INC": {
+   "rank": 32,
+   "obligations_usd": 429436788.78,
+   "awards": 88,
+   "parent_uei": [
+    "D2ARUW8BCRJ4"
+   ],
+   "recipient_uei": [
+    "KEPTQ65QJHQ5",
+    "KRVBVSCG33N5"
+   ],
+   "names": [
+    "ACADIA PROTECTIVE SERVICES II, LLC",
+    "KERBEROS INTERNATIONAL INC",
+    "KERBEROS INTERNATIONAL, INC."
+   ]
+  },
+  "MASTER SECURITY COMPANY LLC": {
+   "rank": 33,
+   "obligations_usd": 422699832.65,
+   "awards": 218,
+   "parent_uei": [
+    "MMJ8G8LBB7L1"
+   ],
+   "recipient_uei": [
+    "MMJ8G8LBB7L1"
+   ],
+   "names": [
+    "MASTER SECURITY COMPANY LLC"
+   ]
+  },
+  "AMERICAN SECURITY PROGRAMS INC": {
+   "rank": 34,
+   "obligations_usd": 395035935.1,
+   "awards": 188,
+   "parent_uei": [
+    "NJZMXXMQ7RZ7"
+   ],
+   "recipient_uei": [
+    "NJZMXXMQ7RZ7"
+   ],
+   "names": [
+    "AMERICAN SECURITY PROGRAMS INC"
+   ]
+  },
+  "SPECTRUM SECURITY SERVICES, INC.": {
+   "rank": 35,
+   "obligations_usd": 389192205.72,
+   "awards": 76,
+   "parent_uei": [
+    "MHLWVTNDP5B8"
+   ],
+   "recipient_uei": [
+    "MHLWVTNDP5B8"
+   ],
+   "names": [
+    "SPECTRUM SECURITY SERVICES, INC."
+   ]
+  },
+  "PARAGON PROFESSIONAL SERVICES LLC": {
+   "rank": 36,
+   "obligations_usd": 387651689.6,
+   "awards": 20,
+   "parent_uei": [
+    "K8RNMK1CCQW3"
+   ],
+   "recipient_uei": [
+    "K8RNMK1CCQW3"
+   ],
+   "names": [
+    "PARAGON PROFESSIONAL SERVICES LLC"
+   ]
+  },
+  "AFOGNAK NATIVE CORP": {
+   "rank": 37,
+   "obligations_usd": 387133731.35,
+   "awards": 188,
+   "parent_uei": [
+    "RQ13XQQKKQ67"
+   ],
+   "recipient_uei": [
+    "EN37BU6PRPP3",
+    "GJKZD9ZEAEJ6",
+    "J1AHVLVBE3J6",
+    "J3SKZDJ8L7F1",
+    "JRABNHAAR3L9",
+    "KE2XM24AMAG8",
+    "RJ1MM7XUCBQ4",
+    "RMLMYLD81VF1",
+    "U4U6AKFTV7E4",
+    "WLMABW85RSW9"
+   ],
+   "names": [
+    "AFOGNAK DIVERSIFIED SERVICES, INC.",
+    "AFOGNAK NATIVE CORP",
+    "ALUTIIQ 3SG, LLC",
+    "ALUTIIQ ADVANCED SECURITY SOLUTIONS LLC",
+    "ALUTIIQ BUSINESS SERVICES, LLC",
+    "ALUTIIQ GLOBAL SOLUTIONS, LLC",
+    "ALUTIIQ INTERNATIONAL SOLUTIONS, LLC",
+    "ALUTIIQ SECURITY & TECHNOLOGY, LLC",
+    "ALUTIIQ SECURITY AND TECHNOLOGY, LLC",
+    "ALUTIIQ-MELE LLC"
+   ]
+  },
+  "GOLDEN SVCS, LLC": {
+   "rank": 38,
+   "obligations_usd": 372678773.0,
+   "awards": 63,
+   "parent_uei": [
+    "K77SAUK7G9E4"
+   ],
+   "recipient_uei": [
+    "K77SAUK7G9E4"
+   ],
+   "names": [
+    "GOLDEN SVCS, LLC"
+   ]
+  },
+  "J. DIAMOND GROUP, INC., THE": {
+   "rank": 39,
+   "obligations_usd": 368279127.33,
+   "awards": 298,
+   "parent_uei": [
+    "EATYNTN26RM4"
+   ],
+   "recipient_uei": [
+    "EATYNTN26RM4"
+   ],
+   "names": [
+    "J. DIAMOND GROUP, INC., THE"
+   ]
+  },
+  "FJC SECURITY SERVICES INC": {
+   "rank": 40,
+   "obligations_usd": 365840128.1,
+   "awards": 188,
+   "parent_uei": [
+    "FXGNDLLKED34"
+   ],
+   "recipient_uei": [
+    "FXGNDLLKED34"
+   ],
+   "names": [
+    "FJC SECURITY SERVICES INC"
+   ]
+  },
+  "CONTINUITY GLOBAL SOLUTIONS LLC": {
+   "rank": 41,
+   "obligations_usd": 361306019.37,
+   "awards": 41,
+   "parent_uei": [
+    "FAQYB9J9EA36"
+   ],
+   "recipient_uei": [
+    "FAQYB9J9EA36",
+    "NEDHBGDCKVW3"
+   ],
+   "names": [
+    "CONTINUITY GLOBAL SOLUTIONS LLC",
+    "TORRES-ARKHE GROUP LLC"
+   ]
+  },
+  "AMERICAN EAGLE PROTECTIVE SERVICES CORP": {
+   "rank": 42,
+   "obligations_usd": 359689463.08,
+   "awards": 176,
+   "parent_uei": [
+    "TT6AZ3TPBVW3",
+    "TTYDW18CAGB5"
+   ],
+   "recipient_uei": [
+    "TT6AZ3TPBVW3"
+   ],
+   "names": [
+    "AMERICAN EAGLE PROTECTIVE SERVICES CORP"
+   ]
+  },
+  "GLOBAL PRECISION SYSTEMS, LLC": {
+   "rank": 43,
+   "obligations_usd": 338349029.08,
+   "awards": 16,
+   "parent_uei": [
+    "F5JZUL8JTEK3"
+   ],
+   "recipient_uei": [
+    "F5JZUL8JTEK3"
+   ],
+   "names": [
+    "GLOBAL PRECISION SYSTEMS, LLC"
+   ]
+  },
+  "SECURITY CONSULTANTS GROUP INC": {
+   "rank": 44,
+   "obligations_usd": 337853684.44,
+   "awards": 436,
+   "parent_uei": [
+    "R92WZLLSXE17"
+   ],
+   "recipient_uei": [
+    "R92WZLLSXE17"
+   ],
+   "names": [
+    "SECURITY CONSULTANTS GROUP INC"
+   ]
+  },
+  "MANAGEMENT & TRAINING CORPORATION": {
+   "rank": 45,
+   "obligations_usd": 334906847.53,
+   "awards": 19,
+   "parent_uei": [
+    "G58ZEJ7HJGM1"
+   ],
+   "recipient_uei": [
+    "G58ZEJ7HJGM1"
+   ],
+   "names": [
+    "MANAGEMENT & TRAINING CORPORATION"
+   ]
+  },
+  "TRI-S SECURITY CORPORATION": {
+   "rank": 46,
+   "obligations_usd": 333359921.0,
+   "awards": 273,
+   "parent_uei": [
+    "R5KFLUNAKDH4"
+   ],
+   "recipient_uei": [
+    "RG1VD6RNMXB5"
+   ],
+   "names": [
+    "PARAGON SYSTEMS INC",
+    "TRI-S SECURITY CORPORATION"
+   ]
+  },
+  "UNIVERSAL PROTECTION GP, LLC": {
+   "rank": 47,
+   "obligations_usd": 314717128.15,
+   "awards": 38,
+   "parent_uei": [
+    "THD4LF2DLLH3"
+   ],
+   "recipient_uei": [
+    "FVKERCH9DDE5",
+    "MFA2CSSMMA35",
+    "RK42LNY7G5P8",
+    "VKYBF46B4X21"
+   ],
+   "names": [
+    "ALL PHASE SECURITY, INC.",
+    "GUARDSMARK, LLC",
+    "UNIVERSAL PROTECTION GP, LLC",
+    "UNIVERSAL PROTECTION SERVICE, LIMITED PARTNERSHIP",
+    "UNIVERSAL PROTECTION SERVICE, LLC"
+   ]
+  },
+  "CHENEGA INFINITY, LLC": {
+   "rank": 48,
+   "obligations_usd": 310546995.46,
+   "awards": 15,
+   "parent_uei": [
+    "RCMYEL9NGU55"
+   ],
+   "recipient_uei": [
+    "RCMYEL9NGU55"
+   ],
+   "names": [
+    "CHENEGA INFINITY, LLC"
+   ]
+  },
+  "NORTH AMERICAN SECURITY, INCORPORATED": {
+   "rank": 49,
+   "obligations_usd": 300019009.72,
+   "awards": 153,
+   "parent_uei": [
+    "VKKVJKSKMDS6"
+   ],
+   "recipient_uei": [
+    "VKKVJKSKMDS6"
+   ],
+   "names": [
+    "NORTH AMERICAN SECURITY, INCORPORATED"
+   ]
+  },
+  "DIVERSIFIED PROTECTION CORP": {
+   "rank": 50,
+   "obligations_usd": 293189159.33,
+   "awards": 96,
+   "parent_uei": [
+    "EFKMRSEAE2K3"
+   ],
+   "recipient_uei": [
+    "EFKMRSEAE2K3"
+   ],
+   "names": [
+    "DIVERSIFIED PROTECTION CORP"
+   ]
+  }
+ }
+}
