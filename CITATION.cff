@@ -10,6 +10,11 @@ authors:
     affiliation: "Mercenomics"
 version: "1.0.0"
 date-released: "2026-10-29"
+doi: "10.5281/zenodo.23770756"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23770755"
+    description: "Concept DOI for all versions"
 repository-code: "https://github.com/Affnann/guard-contractor-enforcement"
 license: CC-BY-4.0
 keywords:

@@ -1,5 +1,7 @@
 # guard-contractor-enforcement
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23770755.svg)](https://doi.org/10.5281/zenodo.23770755)
+
 Published by [Mercenomics](https://mercenomics.org), an independent data archive on the business of force for hire.
 
 Federal enforcement actions against the largest U.S. government guard contractors, as announced by the Department of Justice (DOJ) and the Equal Employment Opportunity Commission (EEOC), with a check of the federal exclusions list. Every action was read by hand from the agency's own press release and keeps its link, the amount in the release's own words and what the release says about liability.
@@ -120,4 +122,9 @@ Sources, download dates and terms are in [`data/README.md`](data/README.md). All
 
 ## Cite
 
-See [`CITATION.cff`](CITATION.cff).
+Azom, Kazi Affnann (2026). *guard-contractor-enforcement: federal enforcement actions against the largest U.S. guard contractors, from DOJ and EEOC press releases* (Version v1.0.0) [Data set]. Mercenomics. https://doi.org/10.5281/zenodo.23770756
+
+- This version (v1.0.0): [10.5281/zenodo.23770756](https://doi.org/10.5281/zenodo.23770756)
+- All versions (always points to the latest): [10.5281/zenodo.23770755](https://doi.org/10.5281/zenodo.23770755)
+
+See also [`CITATION.cff`](CITATION.cff).
